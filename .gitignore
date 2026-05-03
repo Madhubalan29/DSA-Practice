@@ -1,0 +1,29 @@
+# Compiled files
+*.exe
+*.out
+*.class
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build directories
+bin/
+out/
+build/
+target/
+
+# Input/output test files
+input.txt
+output.txt
